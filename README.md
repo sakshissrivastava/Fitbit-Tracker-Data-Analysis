@@ -31,16 +31,16 @@ Python is used for data cleaning, transformation and visulization
 3) hourlyIntensities_merged.csv
 
 ### Findings:
-#### dailyActivity_merged.csv and sleepDay_merged ->
+##### dailyActivity_merged.csv & sleepDay_merged ->
  There are 33 unique Ids avaialable in the csv file.
  NO NULL values
  
-Statistical Observation:
+#### Statistical Observation:
 1) On average, users logged 7,637 steps or 5.4km which is not adequate. As recommended by CDC, an adult female has to aim at least 10,000 steps or 8km per day to benefit from general health, weight loss and fitness improvement.
 2) Average sedentary time is 991 minutes or 16 hours which is a lot!
 3) Average calories burned is 2,303 calories equivalent to 0.6 pound. Details cannot be adeuqately interpreted as calories burned depend on several factors such as the age, weight, daily tasks, exercise, hormones and daily calorie intake.
 
-Visulization Interpretations:
+#### Visulization Interpretations:
 
 ![image](https://user-images.githubusercontent.com/123297799/221629654-353c6422-c3ec-4146-b43c-71683fc096ec.png)
 
@@ -54,32 +54,26 @@ Visulization Interpretations:
 
 ![image](https://user-images.githubusercontent.com/123297799/221652988-6659cf06-23dd-4a8c-bdb1-4725e982f99f.png)  ![image](https://user-images.githubusercontent.com/123297799/221653046-039e442c-bea1-414a-8d09-0c0c2ea32545.png)
 
-Calories burnt every hours logged does not show any linear relationship, this maybe be due to higher sedentary hours. According to the pie chart sedentary times accounts for 81% of the total time logged. 
-This could highly be because the users might be utilizing the fitness band for daily commute, inactive movements (moving from one spot to another) or running errands and lesser for tracking their fitness.
+Calories burnt every hours logged weak positive relationship, this maybe be due to higher sedentary hours. According to the pie chart sedentary times accounts for 81% of the total time logged. 
+**This could highly be because the users might be utilizing the fitness band for daily commute, inactive movements (moving from one spot to another) or running errands and lesser for tracking their fitness.**
 
 ![image](https://user-images.githubusercontent.com/123297799/221653609-8098798a-9f16-444f-9f9f-8cbbcf14b24a.png)  ![image](https://user-images.githubusercontent.com/123297799/221658042-63773f0d-c75c-4e89-bcde-fab942ce154f.png)
 
 Sedentary time also shows the negative linear correlation with total minutes asleep. This shows that higher sedentary minutes accounts for lesser sleep.
 
-hourlyIntensities_merged.csv
+##### hourlyIntensities_merged.csv
 ![image](https://user-images.githubusercontent.com/123297799/221654056-9a76d6a8-2d28-4fe2-801a-080f79fd1bbf.png)
 
 After visualizing Total Intensity hourly, it is found out that people are more active between 5 am and 10pm.
 
 
-Recommendations:
+### Recommendations:
 
 As per the analysis, the markteing team of any other fitness brands which have the similar devices can benefit from these findings:
 1) The marketing team can encourage users by enlightening and empowering them with knowledge about the advantages of fitness, suggesting various forms of exercise (for example, a straightforward 10 minute exercise on weekdays and a more intense exercise on weekends), and providing information on calorie intake and burn rate on the thier respective app.
 2) The company's app can also send out notifications on the weekends to motivate users to work out.
 3) If the users wants to improve their sleep they can consider reducing the sedenatary hours and increase in time on bed hours. The company app can send notifications to go to sleep earlier.
-4) Since most activity happens between 5 pm and 7 pm it is safe to assume that people go to a gym or for a walk after finishing work. This time frame can be utilized by the comoany to remind and motivate users to go for a run or walk.
-
-
-
-
-
-
+4) Since most activity happens between 5 pm and 7 pm it is safe to assume that people go to a gym or for a walk after finishing work. This time frame can be utilized by the companies to remind and motivate users to go for a run or walk.
 
 
 
