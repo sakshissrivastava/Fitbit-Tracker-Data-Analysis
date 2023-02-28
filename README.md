@@ -42,7 +42,7 @@ Python is used for data cleaning, transformation and visulization
 
 #### Visulization Interpretations:
 
-<img src="https://user-images.githubusercontent.com/123297799/221629654-353c6422-c3ec-4146-b43c-71683fc096ec.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/123297799/221629654-353c6422-c3ec-4146-b43c-71683fc096ec.png" width="1000" height="1000">
 
 1) From the Histogram above is is discovered that users prefer or remember to track their activity on the app during midweek from Tuesday to Friday.
 2) The frequency dropped on Friday and continue on weekends and Monday.
@@ -74,9 +74,4 @@ As per the analysis, the markteing team of any other fitness brands which have t
 2) The company's app can also send out notifications on the weekends to motivate users to work out.
 3) If the users wants to improve their sleep they can consider reducing the sedenatary hours and increase in time on bed hours. The company app can send notifications to go to sleep earlier.
 4) Since most activity happens between 5 pm and 7 pm it is safe to assume that people go to a gym or for a walk after finishing work. This time frame can be utilized by the companies to remind and motivate users to go for a run or walk.
-
-
-
-
-
 
