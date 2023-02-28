@@ -1,6 +1,6 @@
 # Fitbit Tracker DataSet Analysis
 
-The data set used for this analysis is available on [Kaggel](https://www.kaggle.com/datasets/arashnic/fitbit)
+The data set used for this analysis is available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 ### Task: 
 Analyze FitBit fitness tracker data to gain insights into how consumers are using the FitBit app and discover trends for marketing strategy.
@@ -42,7 +42,7 @@ Python is used for data cleaning, transformation and visulization
 
 #### Visulization Interpretations:
 
-![image](https://user-images.githubusercontent.com/123297799/221629654-353c6422-c3ec-4146-b43c-71683fc096ec.png)
+<img src="https://user-images.githubusercontent.com/123297799/221629654-353c6422-c3ec-4146-b43c-71683fc096ec.png" width="100" height="100">
 
 1) From the Histogram above is is discovered that users prefer or remember to track their activity on the app during midweek from Tuesday to Friday.
 2) The frequency dropped on Friday and continue on weekends and Monday.
